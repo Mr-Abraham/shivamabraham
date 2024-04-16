@@ -87,6 +87,13 @@ function Projects() {
       cat: "Web App",
       href: "https://mr-abraham.github.io/todo/",
     },
+    {
+      id: 13,
+      name: "Password Generator",
+      src: "/projectsimages/pwdGen.png",
+      cat: "Web App",
+      href: "https://pwdgenerate.vercel.app/",
+    }
   ];
   const [projectList, setProjectList] = useState(projects);
 
