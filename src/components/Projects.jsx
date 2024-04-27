@@ -93,6 +93,13 @@ function Projects() {
       src: "/projectsimages/pwdGen.png",
       cat: "Web App",
       href: "https://pwdgenerate.vercel.app/",
+    },
+    {
+      id: 14,
+      name: "Currency Converter",
+      src: "/projectsimages/currency.png",
+      cat: "Web App",
+      href: "https://currencify.vercel.app//",
     }
   ];
   const [projectList, setProjectList] = useState(projects);
