@@ -83,7 +83,7 @@ function Projects() {
     {
       id: 12,
       name: "Todo App",
-      src: "/projectsimages/todo.png",
+      src: "/projectsimages/todo.jpg",
       cat: "Web App",
       href: "https://alphatodo.vercel.app/",
     },
