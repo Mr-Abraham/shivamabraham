@@ -85,7 +85,7 @@ function Projects() {
       name: "Todo App",
       src: "/projectsimages/todo.png",
       cat: "Web App",
-      href: "https://mr-abraham.github.io/todo/",
+      href: "https://alphatodo.vercel.app/",
     },
     {
       id: 13,
@@ -99,7 +99,14 @@ function Projects() {
       name: "Currency Converter",
       src: "/projectsimages/currency.png",
       cat: "Web App",
-      href: "https://currencify.vercel.app//",
+      href: "https://currencify.vercel.app/",
+    },
+    {
+      id: 15,
+      name: "GitFound",
+      src: "/projectsimages/gitfound.png",
+      cat: "Web App",
+      href: "https://gitfounnd.vercel.app/",
     }
   ];
   const [projectList, setProjectList] = useState(projects);
