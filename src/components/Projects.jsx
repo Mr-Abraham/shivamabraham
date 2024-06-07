@@ -48,9 +48,9 @@ function Projects() {
     {
       id: 7,
       name: "Weather App",
-      src: "https://alphaweather.vercel.app/",
+      src: "./projectsimages/weather.png",
       cat: "Web App",
-      href: "",
+      href: "https://alphaweather.vercel.app/",
     },
     {
       id: 8,
